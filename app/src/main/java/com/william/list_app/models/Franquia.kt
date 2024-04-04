@@ -3,7 +3,7 @@ package com.william.list_app.models
 class Franquia(
     val nome: String,
     val cidade: String,
-    val titulos: Int,
+    val titulos: String,
     val foto: String
 
 ) {
